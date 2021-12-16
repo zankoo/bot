@@ -1,0 +1,4 @@
+[2021-10-09 21:50:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://nonebot:8765/cqhttp/ws 时出现错误: dial tcp: lookup nonebot on 127.0.0.11:53: read udp 127.0.0.1:55387->127.0.0.11:53: i/o timeout 
+[2021-10-09 21:51:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://nonebot:8765/cqhttp/ws 时出现错误: dial tcp: lookup nonebot on 127.0.0.11:53: read udp 127.0.0.1:56176->127.0.0.11:53: i/o timeout 
+[2021-10-09 21:51:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://nonebot:8765/cqhttp/ws 时出现错误: dial tcp: lookup nonebot on 127.0.0.11:53: read udp 127.0.0.1:50646->127.0.0.11:53: i/o timeout 
+[2021-10-09 21:51:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://nonebot:8765/cqhttp/ws 时出现错误: dial tcp: lookup nonebot on 127.0.0.11:53: read udp 127.0.0.1:55019->127.0.0.11:53: i/o timeout 

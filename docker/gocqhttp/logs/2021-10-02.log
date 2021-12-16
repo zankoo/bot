@@ -1,0 +1,8 @@
+[2021-10-02 00:23:15] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2021-10-02 00:23:36] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 153.3.50.180:8080: connect: connection refused 
+[2021-10-02 00:23:36] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 153.3.50.180:8080: connect: connection refused 
+[2021-10-02 00:23:36] [WARNING]: Bot已离线: connection dropped by server. 
+[2021-10-02 00:23:40] [WARNING]: 尝试重连... 
+[2021-10-02 00:24:01] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 221.198.69.51:8080: connect: connection refused 
+[2021-10-02 00:24:01] [WARNING]: 快速重连失败: dial tcp error: dial tcp 221.198.69.51:8080: connect: connection refused 
+[2021-10-02 00:24:01] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 

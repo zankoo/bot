@@ -1,0 +1,4 @@
+[2021-10-09 22:04:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-10-09 22:04:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-10-09 22:04:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-10-09 22:04:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 

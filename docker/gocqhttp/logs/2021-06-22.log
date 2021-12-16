@@ -1,0 +1,15 @@
+[2021-06-22 18:44:40] [WARNING]: 已开启Debug模式. 
+[2021-06-22 18:44:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-06-22 18:44:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-06-22 18:45:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-06-22 18:45:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-06-22 18:45:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-06-22 18:45:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-06-22 18:45:33] [WARNING]: 警告: 私聊 1372110747 消息图片上传失败. 
+[2021-06-22 18:45:44] [WARNING]: 警告: 私聊 1372110747 消息图片上传失败. 
+[2021-06-22 18:46:43] [WARNING]: 警告: 私聊 1372110747 消息图片上传失败. 
+[2021-06-22 18:51:45] [WARNING]: 是否更新(y/N):  
+[2021-06-22 18:52:03] [WARNING]: 已开启Debug模式. 
+[2021-06-22 18:52:27] [WARNING]: 警告: 私聊 1372110747 消息图片上传失败. 
+[2021-06-22 18:54:55] [WARNING]: 已开启Debug模式. 
+[2021-06-22 18:55:02] [WARNING]: 检查更新失败: 使用的 Actions 测试版或自编译版本. 

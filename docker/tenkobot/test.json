@@ -1,0 +1,22 @@
+{
+  "conclusion": "不合规",
+  "log_id": 16189227258320745,
+  "data": [
+    {
+      "msg": "存在低俗辱骂不合规",
+      "conclusion": "不合规",
+      "hits": [
+        {
+          "probability": 0.92883635,
+          "datasetName": "百度默认文本反作弊库",
+          "words": []
+        }
+      ],
+      "subType": 5,
+      "conclusionType": 2,
+      "type": 12
+    }
+  ],
+  "isHitMd5": false,
+  "conclusionType": 2
+}
